@@ -25,4 +25,9 @@ RESTART_GT=360
 ```
 
 ### My pool
+My pool is now running stable, so currently I am not having issues with stuck Jormungandr or forks. 
+I roughly followed this guide: https://gist.github.com/ilap/54027fe9af0513c2701dc556221198b2 
+(updated linux network settings and tweaked Jormungandr configuration).  
+
 If you find this useful please support my pool: https://adage.app
+
